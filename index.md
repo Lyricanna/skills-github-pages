@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to this simple test
 ---
 
+*Just boring Markdown*
